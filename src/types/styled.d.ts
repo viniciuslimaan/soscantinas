@@ -17,6 +17,7 @@ declare module 'styled-components' {
       redLight: string;
       blue: string;
       blueLight: string;
+      gradient: string;
     };
   }
 }

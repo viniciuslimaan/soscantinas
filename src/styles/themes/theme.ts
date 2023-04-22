@@ -16,6 +16,7 @@ const theme: DefaultTheme = {
     redLight: '#FDE4E3',
     blue: '#3498DB',
     blueLight: '#E1F0FA',
+    gradient: 'linear-gradient(315deg,#F3CC42,#FA9117)',
   },
 };
 
